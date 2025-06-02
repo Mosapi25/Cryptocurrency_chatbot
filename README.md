@@ -18,6 +18,18 @@ This project was created as part of learning about:
 - Friendly chatbot tone
 - Simple if-else logic (no AI libraries needed!)
 
+## 💻 How to Run
+
+1. Clone the repo or download the .py file.
+2. Open in Google Colab, Jupyter Notebook, or any Python ID
+3. Run the file and start chatting with CryptoBuddy!
+4. Type exit or bye to end the conversation.
+
+---
+
+📸 Screenshots
+
+
 
 ## 📊 Sample Dataset
 
@@ -42,3 +54,4 @@ crypto_db = {
         "sustainability_score": 8/10
     }
 }
+
