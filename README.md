@@ -29,7 +29,7 @@ This project was created as part of learning about:
 
 📸 Screenshots
 
-
+Screenshot_20250602_195322_Pydroid 3.jpg 
 
 ## 📊 Sample Dataset
 
